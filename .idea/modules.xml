@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exam/Exam.iml" filepath="$PROJECT_DIR$/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EzrasRestaurant/EzrasRestaurant.iml" filepath="$PROJECT_DIR$/EzrasRestaurant/EzrasRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstKotlinProject/FirstKotlinProject.iml" filepath="$PROJECT_DIR$/FirstKotlinProject/FirstKotlinProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpWeb.iml" filepath="$PROJECT_DIR$/HttpWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven/Maven.iml" filepath="$PROJECT_DIR$/Maven/Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWeb-ServletContext/MyWeb-ServletContext.iml" filepath="$PROJECT_DIR$/MyWeb-ServletContext/MyWeb-ServletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebFilter/MyWebFilter.iml" filepath="$PROJECT_DIR$/MyWebFilter/MyWebFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebFilter2/MyWebFilter2.iml" filepath="$PROJECT_DIR$/MyWebFilter2/MyWebFilter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebHttpServletRequest/MyWebHttpServletRequest.iml" filepath="$PROJECT_DIR$/MyWebHttpServletRequest/MyWebHttpServletRequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebHttpServletResponse/MyWebHttpServletResponse.iml" filepath="$PROJECT_DIR$/MyWebHttpServletResponse/MyWebHttpServletResponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebJSP-Java/MyWebJSP-Java.iml" filepath="$PROJECT_DIR$/MyWebJSP-Java/MyWebJSP-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebServletContextAttributeListener/MyWebServletContextAttributeListener.iml" filepath="$PROJECT_DIR$/MyWebServletContextAttributeListener/MyWebServletContextAttributeListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebServletContextListener/MyWebServletContextListener.iml" filepath="$PROJECT_DIR$/MyWebServletContextListener/MyWebServletContextListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebShopping/MyWebShopping.iml" filepath="$PROJECT_DIR$/MyWebShopping/MyWebShopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWeb-Request/myWeb-Request.iml" filepath="$PROJECT_DIR$/myWeb-Request/myWeb-Request.iml" />
+    </modules>
+  </component>
+</project>

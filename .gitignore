@@ -1,0 +1,13 @@
+# Project exclude paths
+/Exam/target/
+/EzrasRestaurant/target/
+/myWeb-Request/target/
+/MyWeb-ServletContext/target/
+/MyWebFilter/target/
+/MyWebFilter2/target/
+/MyWebHttpServletRequest/target/
+/MyWebHttpServletResponse/target/
+/MyWebServletContextAttributeListener/target/
+/MyWebServletContextListener/target/
+/MyWebShopping/target/
+/out/

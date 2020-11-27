@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MyWebHttpServletResponse/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWebHttpServletRequest/pom.xml" />
+        <option value="$PROJECT_DIR$/在线考试管理系统·/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/pom.xml" />
+        <option value="$PROJECT_DIR$/myWeb-Request/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWeb-ServletContext/pom.xml" />
+        <option value="$PROJECT_DIR$/EzrasRestaurant/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWebShopping/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWebServletContextListener/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/MyWebServletContextAttributeListener/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWebServletContextAttributeListener2/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWebFilter/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWebFilter2/pom.xml" />
+        <option value="$PROJECT_DIR$/MyWebJSP-Java/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

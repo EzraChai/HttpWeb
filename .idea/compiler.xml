@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Maven" />
+        <module name="MyWebServletContextAttributeListener" />
+        <module name="MyWeb-ServletContext" />
+        <module name="MyWebShopping" />
+        <module name="myWeb-Request" />
+        <module name="MyWebFilter" />
+        <module name="EzrasRestaurant" />
+        <module name="MyWebFilter2" />
+        <module name="MyWebHttpServletRequest" />
+        <module name="MyWebJSP-Java" />
+        <module name="MyWebHttpServletResponse" />
+        <module name="Exam" />
+        <module name="MyWebServletContextListener" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Exam" target="1.7" />
+      <module name="ExamSystem" target="1.5" />
+      <module name="EzrasRestaurant" target="1.7" />
+      <module name="Maven" target="1.5" />
+      <module name="myWeb-Request" target="1.7" />
+      <module name="MyWeb-ServletContext" target="1.7" />
+      <module name="MyWebFilter" target="1.7" />
+      <module name="MyWebFilter2" target="1.7" />
+      <module name="MyWebHttpServletRequest" target="1.7" />
+      <module name="MyWebHttpServletResponse" target="1.7" />
+      <module name="MyWebJSP-Java" target="1.7" />
+      <module name="MyWebServletContextAttributeListener" target="1.7" />
+      <module name="MyWebServletContextListener" target="1.7" />
+      <module name="MyWebShopping" target="1.7" />
+      <module name="untitled" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

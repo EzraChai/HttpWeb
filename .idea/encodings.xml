@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Exam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EzrasRestaurant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWeb-ServletContext/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWebFilter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWebFilter2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWebHttpServletRequest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWebHttpServletResponse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWebServletContextAttributeListener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWebServletContextListener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyWebShopping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myWeb-Request/src/main/java" charset="UTF-8" />
+  </component>
+</project>
