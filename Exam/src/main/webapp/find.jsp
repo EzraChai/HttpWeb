@@ -17,11 +17,11 @@ List<User> userlist = dao.findAll();
     </tr>
     <%for (User users : userlist) {%>
     <tr>
-    <td> <%=users.getUserId()%> </td>
-    <td> <%=users.getName()%> </td>
+    <td> ${users.getUserId()} </td>
+    <td> ${users.getName()} </td>
     <td> *********** </td>
-    <td> <%=users.getGender()%> </td>
-    <td> <%=users.getEmail()%> </td>
+    <td> ${users.getGender()} </td>
+    <td> ${users.getEmail()}  </td>
     <td><a href='/Exam/delete?userId=
     <%=users.getUserId()%>
     '>Delete</a></td>

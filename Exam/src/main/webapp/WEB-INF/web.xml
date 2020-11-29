@@ -2,7 +2,10 @@
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
-<web-app>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+         version="2.4">
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>UserAddServlet</servlet-name>
@@ -54,6 +57,54 @@
   <servlet-mapping>
     <servlet-name>QuestionAddServlet</servlet-name>
     <url-pattern>/question/add</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QuestionFindServlet</servlet-name>
+    <servlet-class>com.controller.QuestionFindServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QuestionFindServlet</servlet-name>
+    <url-pattern>/question/find</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QuestionFindByIdServlet</servlet-name>
+    <servlet-class>com.controller.QuestionFindByIdServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QuestionFindByIdServlet</servlet-name>
+    <url-pattern>/question/findById</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QuestionUpdateServlet</servlet-name>
+    <servlet-class>com.controller.QuestionUpdateServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QuestionUpdateServlet</servlet-name>
+    <url-pattern>/question/update</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QuestionDeleteServlet</servlet-name>
+    <servlet-class>com.controller.QuestionDeleteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QuestionDeleteServlet</servlet-name>
+    <url-pattern>/question/delete</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QuestionRandomServlet</servlet-name>
+    <servlet-class>com.controller.QuestionRandomServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QuestionRandomServlet</servlet-name>
+    <url-pattern>/question/rand</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>ExamScoreServlet</servlet-name>
+    <servlet-class>com.controller.ExamScoreServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ExamScoreServlet</servlet-name>
+    <url-pattern>/score</url-pattern>
   </servlet-mapping>
 
   <welcome-file-list>
