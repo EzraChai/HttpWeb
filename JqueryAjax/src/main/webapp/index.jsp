@@ -60,7 +60,7 @@
                     <option value="10">Sabah</option>
                     <option value="11">Selangor</option>
                     <option value="12">Sarawak</option>
-                    <option value="13">Terengganuv</option>
+                    <option value="13">Terengganu</option>
                 </select>
             </td>
         </tr>
