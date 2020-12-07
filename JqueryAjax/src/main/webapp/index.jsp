@@ -15,7 +15,7 @@
                     $("#city").hide()
                     $("#word").hide()
                 }else{
-                $.get({
+                $.post({
                     url:"queryCity",
                     data:{
                         "id": this.value,

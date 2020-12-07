@@ -15,7 +15,7 @@ import java.util.List;
 
 public class cityServlet extends HttpServlet {
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String stateId = req.getParameter("id");
         System.out.println(stateId);
         cityDao dao = new cityDao();
