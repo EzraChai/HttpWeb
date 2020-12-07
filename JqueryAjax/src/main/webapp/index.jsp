@@ -9,6 +9,11 @@
         $(function(){
         $("#city").hide()
         $("#word").hide()
+        $(":button").hide()
+        $(":button").on("click",function(){
+            let place = $("#option option:selected").text()
+            alert(place)
+        })
             $("#state").on('change',function(){
                 if($("#state option:selected").val() == 0){
                     $("option[class='city']").remove()
@@ -27,6 +32,7 @@
                         let $option = $("#option")
                         $("#word").show()
                         $("#city").show()
+                        $(":button").show()
 
                         $(resp.name).each(function(i,n){
                         num +=1;
@@ -78,6 +84,14 @@
                  </div>
             </td>
         </tr>
+        <tr>
+                    <td><br>
+                        <div id="Submit">
+                        <input type="button" value="Submit">
+                         </div>
+                    </td>
+                </tr>
+
     </table>
     </center>
 </body>
