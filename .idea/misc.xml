@@ -18,6 +18,11 @@
         <option value="$PROJECT_DIR$/MyWebFilter/pom.xml" />
         <option value="$PROJECT_DIR$/MyWebFilter2/pom.xml" />
         <option value="$PROJECT_DIR$/MyWebJSP-Java/pom.xml" />
+        <option value="$PROJECT_DIR$/JSONTest/pom.xml" />
+        <option value="$PROJECT_DIR$/Ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/Ajax02/pom.xml" />
+        <option value="$PROJECT_DIR$/QueryInfo/pom.xml" />
+        <option value="$PROJECT_DIR$/JqueryAjax/pom.xml" />
       </list>
     </option>
   </component>
