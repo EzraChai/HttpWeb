@@ -29,10 +29,8 @@ public class cityDao {
                 stateName = rs.getString("name");
                 list.add(stateName);
             }
-        } catch (ClassNotFoundException e) {
+        } catch (ClassNotFoundException | SQLException e) {
             e.printStackTrace();
-        } catch (SQLException throwables) {
-            throwables.printStackTrace();
         } finally {
             if (rs != null) {
                 try {

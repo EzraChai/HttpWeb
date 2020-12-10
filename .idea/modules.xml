@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ajax/Ajax.iml" filepath="$PROJECT_DIR$/Ajax/Ajax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ajax02/Ajax02.iml" filepath="$PROJECT_DIR$/Ajax02/Ajax02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" filepath="$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam/Exam.iml" filepath="$PROJECT_DIR$/Exam/Exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/EzrasRestaurant/EzrasRestaurant.iml" filepath="$PROJECT_DIR$/EzrasRestaurant/EzrasRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstKotlinProject/FirstKotlinProject.iml" filepath="$PROJECT_DIR$/FirstKotlinProject/FirstKotlinProject.iml" />
@@ -12,6 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/JqueryAjax/JqueryAjax.iml" filepath="$PROJECT_DIR$/JqueryAjax/JqueryAjax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maven/Maven.iml" filepath="$PROJECT_DIR$/Maven/Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenCourse/MavenCourse.iml" filepath="$PROJECT_DIR$/MavenCourse/MavenCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenWeb/MavenWeb.iml" filepath="$PROJECT_DIR$/MavenWeb/MavenWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis001/MyBatis001.iml" filepath="$PROJECT_DIR$/MyBatis001/MyBatis001.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWeb-ServletContext/MyWeb-ServletContext.iml" filepath="$PROJECT_DIR$/MyWeb-ServletContext/MyWeb-ServletContext.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebFilter/MyWebFilter.iml" filepath="$PROJECT_DIR$/MyWebFilter/MyWebFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebFilter2/MyWebFilter2.iml" filepath="$PROJECT_DIR$/MyWebFilter2/MyWebFilter2.iml" />
@@ -22,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyWebServletContextListener/MyWebServletContextListener.iml" filepath="$PROJECT_DIR$/MyWebServletContextListener/MyWebServletContextListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebShopping/MyWebShopping.iml" filepath="$PROJECT_DIR$/MyWebShopping/MyWebShopping.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueryInfo/QueryInfo.iml" filepath="$PROJECT_DIR$/QueryInfo/QueryInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticProxy/StaticProxy.iml" filepath="$PROJECT_DIR$/StaticProxy/StaticProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/myWeb-Request/myWeb-Request.iml" filepath="$PROJECT_DIR$/myWeb-Request/myWeb-Request.iml" />
     </modules>
   </component>

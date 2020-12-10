@@ -20,7 +20,10 @@
         <module name="Ajax02" />
         <module name="QueryInfo" />
         <module name="MyWebJSP-Java" />
+        <module name="MavenCourse" />
         <module name="MyWebHttpServletResponse" />
+        <module name="MyBatis001" />
+        <module name="MavenWeb" />
         <module name="Exam" />
         <module name="MyWebServletContextListener" />
         <module name="Ajax" />
@@ -35,6 +38,9 @@
       <module name="JqueryAjax" target="1.7" />
       <module name="JSONTest" target="1.7" />
       <module name="Maven" target="1.5" />
+      <module name="MavenCourse" target="1.8" />
+      <module name="MavenWeb" target="1.7" />
+      <module name="MyBatis001" target="8" />
       <module name="myWeb-Request" target="1.7" />
       <module name="MyWeb-ServletContext" target="1.7" />
       <module name="MyWebFilter" target="1.7" />
