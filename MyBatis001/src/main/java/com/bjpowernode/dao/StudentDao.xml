@@ -6,5 +6,7 @@
     <select id="selectStudents" resultType="com.bjpowernode.domain.Student">
         select id,name,email,age from student order by id;
     </select>
-
+    <insert id="insertStudent">
+        insert into student values(#{id},#{name},#{email},#{age});
+    </insert>
 </mapper>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bjpowernode.dao.studentDao">
+    <select id="selectStudentByID" parameterType="integer" resultType="com.bjpowernode.domain.Student">
+        select id,name,email,age from student where id = #{Id};
+    </select>
+    <select id="selectMultiParam" resultType="Student">
+        select id,name,email,age from student where name = #{myName} or age = #{myAge};
+    </select>
+    <select id="selectStudentReturnViewStudent" resultType="ViewStudent">
+        select id,name,email,age from student where id = #{sid};
+    </select>
+    <select id="countStudent" resultType="int">
+        select count(*) from student;
+    </select>
+    <select id="selectMapById" resultType="map">
+        select id,name,age  from student where id = #{id};
+    </select>
+    
+    <resultMap id="studentMap" type="com.bjpowernode.domain.Student">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+        <result column="email" property="email"/>
+        <result column="age" property="age"/>
+    </resultMap>
+    <select id="selectAllStudents" resultMap="studentMap">
+        select id,name,email,age from student;
+    </select>
+    <resultMap id="myStudentMap" type="com.bjpowernode.domain.MyStudent">
+        <id column="id" property="studentId"/>
+        <result column="name" property="studentName"/>
+        <result column="email" property="studentEmail"/>
+        <result column="age" property="studentAge"/>
+    </resultMap>
+    <select id="selectAllMyStudents" resultMap="myStudentMap">
+        select id,name,email,age from student;
+    </select>
+    <select id="selectDiffColProperty" resultType="com.bjpowernode.domain.MyStudent">
+        select id as studentid,name as studentname,email as studentemail,age as studentage from student;
+    </select>
+    <select id="selectLikeMethodOne" resultType="com.bjpowernode.domain.Student">
+        select id,name,email,age from student where name like #{name};
+    </select>
+    <select id="selectLikeMethodTwo" resultType="com.bjpowernode.domain.Student">
+        select id,name,email,age from student where name like "%" #{name} "%";
+    </select>
+</mapper>

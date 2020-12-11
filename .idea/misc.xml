@@ -26,6 +26,12 @@
         <option value="$PROJECT_DIR$/MavenCourse/pom.xml" />
         <option value="$PROJECT_DIR$/MavenWeb/pom.xml" />
         <option value="$PROJECT_DIR$/MyBatis001/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis002/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis003 - ProxyDao/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis004 - Param/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis005 - ReturnResult/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis004 - Param - Copy/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis006-DynamicSQL/pom.xml" />
       </list>
     </option>
   </component>

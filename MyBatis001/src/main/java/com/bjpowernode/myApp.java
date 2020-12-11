@@ -20,7 +20,9 @@ public class myApp {
             SqlSession sqlSession = factory.openSession();
             String sqlId = "com.bjpowernode.dao.StudentDao" + "." + "selectStudents";
             List<Student> studentList = sqlSession.selectList(sqlId);
-            studentList.forEach(stu -> System.out.println(stu));
+            for (Student stu:studentList){
+                System.out.println(stu);
+            }
             sqlSession.close();
         } catch (IOException e) {
             e.printStackTrace();

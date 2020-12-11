@@ -13,6 +13,11 @@
     <file url="file://$PROJECT_DIR$/MavenWeb/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MyBatis001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MyBatis001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyBatis002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyBatis003 - ProxyDao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyBatis004 - Param - Copy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyBatis004 - Param/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyBatis006-DynamicSQL/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MyWeb-ServletContext/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MyWebFilter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MyWebFilter2/src/main/java" charset="UTF-8" />

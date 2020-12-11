@@ -16,6 +16,11 @@
       <module fileurl="file://$PROJECT_DIR$/MavenCourse/MavenCourse.iml" filepath="$PROJECT_DIR$/MavenCourse/MavenCourse.iml" />
       <module fileurl="file://$PROJECT_DIR$/MavenWeb/MavenWeb.iml" filepath="$PROJECT_DIR$/MavenWeb/MavenWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyBatis001/MyBatis001.iml" filepath="$PROJECT_DIR$/MyBatis001/MyBatis001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis002/MyBatis002.iml" filepath="$PROJECT_DIR$/MyBatis002/MyBatis002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis003 - ProxyDao/MyBatis003 - ProxyDao.iml" filepath="$PROJECT_DIR$/MyBatis003 - ProxyDao/MyBatis003 - ProxyDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis004 - Param/MyBatis004 - Param.iml" filepath="$PROJECT_DIR$/MyBatis004 - Param/MyBatis004 - Param.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis004 - Param - Copy/MyBatis005 - ReturnResult.iml" filepath="$PROJECT_DIR$/MyBatis004 - Param - Copy/MyBatis005 - ReturnResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis006-DynamicSQL/MyBatis006-DynamicSQL.iml" filepath="$PROJECT_DIR$/MyBatis006-DynamicSQL/MyBatis006-DynamicSQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWeb-ServletContext/MyWeb-ServletContext.iml" filepath="$PROJECT_DIR$/MyWeb-ServletContext/MyWeb-ServletContext.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebFilter/MyWebFilter.iml" filepath="$PROJECT_DIR$/MyWebFilter/MyWebFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebFilter2/MyWebFilter2.iml" filepath="$PROJECT_DIR$/MyWebFilter2/MyWebFilter2.iml" />

@@ -7,26 +7,31 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Maven" />
-        <module name="MyWebServletContextAttributeListener" />
         <module name="JqueryAjax" />
+        <module name="MyBatis005 - ReturnResult" />
         <module name="MyWeb-ServletContext" />
+        <module name="MyWebFilter2" />
+        <module name="MyBatis006-DynamicSQL" />
+        <module name="MyWebHttpServletRequest" />
+        <module name="QueryInfo" />
+        <module name="MyBatis004 - Param" />
+        <module name="MyWebHttpServletResponse" />
+        <module name="MyBatis001" />
+        <module name="MyBatis002" />
+        <module name="MyBatis003 - ProxyDao" />
+        <module name="Exam" />
+        <module name="Ajax" />
+        <module name="MyWebServletContextAttributeListener" />
         <module name="MyWebShopping" />
         <module name="JSONTest" />
         <module name="myWeb-Request" />
         <module name="MyWebFilter" />
         <module name="EzrasRestaurant" />
-        <module name="MyWebFilter2" />
-        <module name="MyWebHttpServletRequest" />
         <module name="Ajax02" />
-        <module name="QueryInfo" />
         <module name="MyWebJSP-Java" />
         <module name="MavenCourse" />
-        <module name="MyWebHttpServletResponse" />
-        <module name="MyBatis001" />
         <module name="MavenWeb" />
-        <module name="Exam" />
         <module name="MyWebServletContextListener" />
-        <module name="Ajax" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,6 +46,12 @@
       <module name="MavenCourse" target="1.8" />
       <module name="MavenWeb" target="1.7" />
       <module name="MyBatis001" target="8" />
+      <module name="MyBatis002" target="1.7" />
+      <module name="MyBatis003 - ProxyDao" target="1.7" />
+      <module name="MyBatis004 - Param" target="1.7" />
+      <module name="MyBatis005 - ReturnResult" target="1.7" />
+      <module name="MyBatis005-Return-Result" target="1.7" />
+      <module name="MyBatis006-DynamicSQL" target="1.7" />
       <module name="myWeb-Request" target="1.7" />
       <module name="MyWeb-ServletContext" target="1.7" />
       <module name="MyWebFilter" target="1.7" />
